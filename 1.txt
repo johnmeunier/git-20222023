@@ -6,3 +6,5 @@ yedt
 
 amélioration des perfs de l'auth
 Passage en camelcase
+
+Développer ma nouvelle page produit incroyable qui va me prendre 3 jours à faire
