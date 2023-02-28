@@ -5,3 +5,4 @@ Ajout d'une nouvelle ligne
 yedt
 
 amélioration des perfs de l'auth
+Passage en camelcase
